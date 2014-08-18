@@ -28,7 +28,7 @@ function MyDiff()
   silent execute '!' . cmd . ' ' . opt . arg1 . ' ' . arg2 . ' > ' . arg3 . eq
 endfunction
 
-# setting guifont - jhaas
+" setting guifont - jhaas
 if has("gui_running")
 	if has("gui_gtk2")
 		set guifont=consolas\ 11
@@ -39,5 +39,5 @@ if has("gui_running")
 	endif
 endif
 
-# setting colour scheme (zenburn install required in colors folder) - jhaas
+" setting colour scheme (zenburn install required in colors folder) - jhaas
 colors zenburn
