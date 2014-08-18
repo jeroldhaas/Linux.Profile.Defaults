@@ -1,0 +1,13 @@
+# localhost name resolution is handled within DNS itself (Windows).
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#127.0.0.1    localhost
+127.0.0.1    disdyn.dev
+127.0.0.1    prosource.dev
+127.0.0.1    un1tusrepublic.dev
+127.0.0.1    wordpress.dev
+127.0.0.1    edgewebware.dev
+127.0.0.1    prestofoods.dev
+127.0.0.1    smartertakeout.dev
+127.0.0.1    wpblank.dev
